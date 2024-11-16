@@ -74,8 +74,8 @@ header > nav > a:hover{
 }
 
 .btn-prime-menu:hover{
-    background-color: #0d90d1;
-    box-shadow:  0 0 2rem  #0d90d1 ;
-    
+    background-color: #17a1e6;
+    box-shadow:  0 0 1rem  #17a1e6;
+    color: var(--claro)
 }
 
